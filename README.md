@@ -6,8 +6,10 @@ I focus on **file share management**, **product documentation**, **customer advo
 ---
 
 ## Talks
-- **Azure Files Provisioned v2 Pricing Model: Flexible and Cost Efficient File Shares**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=fnxEFw4mMyQ)
+
+
+
+- **Azure Files Provisioned v2 Pricing Model: Flexible and Cost Efficient File Shares** [!VIDEO https://www.youtube.com/embed/fnxEFw4mMyQ?si=xDOxe4SZqe9suoXX&amp]
 - **Azure Files provisioned v2 pricing model: flexibility and cost efficiency file shares**  
   [Watch on YouTube](https://www.youtube.com/watch?v=1sXwvHaTqfg)
 - **NEW File Shares Resource Types** (Microsoft.FileShares)  
