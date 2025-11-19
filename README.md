@@ -1,7 +1,4 @@
-# What's up : )
 
-I’m Vincent — Product Manager at **Microsoft** working on **Azure Files** and **Azure File Sync**.  
-I focus on **file share management**, **product documentation**, **customer advocacy**, and making storage simpler and more cost‑efficient.
 
 ---
 
@@ -10,17 +7,49 @@ I focus on **file share management**, **product documentation**, **customer advo
 
 
 - **Azure Files Provisioned v2 Pricing Model: Flexible and Cost Efficient File Shares** [!VIDEO https://www.youtube.com/embed/fnxEFw4mMyQ?si=xDOxe4SZqe9suoXX&amp]
-- **Azure Files provisioned v2 pricing model: flexibility and cost efficiency file shares**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=1sXwvHaTqfg)
-- **NEW File Shares Resource Types** (Microsoft.FileShares)  
-  [Watch John Savill’s overview](https://www.youtube.com/watch?v=T5eKHDwZe3M)
+
+
 - **Simplifying Azure Files: provisioned v2 and Microsoft.FileShares**  
   [Watch the session](https://www.youtube.com/watch?v=tIWap2KLK8M)
 
+
+
+
+# What's up : )
+
+- I’m Vincent, a Product Manager at **Microsoft** working on **Azure Files** and **Azure File Sync**.  
+- I focus on **file share management**, **product documentation**, **customer advocacy**, and making storage simpler and more cost‑efficient.
+
+## Talks
+<table>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=tIWap2KLK8M"><img src="./media/ignite2025.png" style="width:200px" /></a></td>
+        <td>
+            <h3><a href="https://www.youtube.com/watch?v=tIWap2KLK8M">Simplifying Azure Files: Provisioned v2 and Microsoft.FileShares</a></h3>
+            <h4>
+                Will Gries, Vincent Liu<br />
+                2025-11-18
+            </h4>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.youtube.com/watch?v=m5_-GsKv4-o"><img src="./media/cost-optimization.jpg" style="width:200px;" /></a>
+        </td>
+        <td>
+            <h3><a href="https://www.youtube.com/watch?v=m5_-GsKv4-o">Pricing up Azure Files</a></h3>
+            <h4>
+                Sarah Lean, Will Gries<br />
+                2021-03-30
+            </h4>
+        </td>
+    </tr>
+   
+</table>
+
 ---
 
-## Writing
-- **Lower costs and boost flexibility with Azure Files provisioned v2** — Microsoft Community Hub  
-  [Read the post](https://techcommunity.microsoft.com/blog/azurestorageblog/lower-costs-and-boost-flexibility-with-azure-files-provisioned-v2/4443621)
-- **Simplifying file share management and control for Azure Files** — Microsoft Community Hub  
-  [Read the post](https://techcommunity.microsoft.com/blog/azurestorageblog/simplifying-file-share-management-and-control-for-azure-files/4452634)
+## Blog posts
+| Title | Author | Date |
+|-|-|-|
+| [Simplifying file share management and control for Azure Files](https://techcommunity.microsoft.com/blog/azurestorageblog/simplifying-file-share-management-and-control-for-azure-files/4452634) | Will Gries (Coauthor: Vincent Liu) | 2025-09-09 |
+| [Lower costs and boost flexibility with Azure Files provisioned v2](https://techcommunity.microsoft.com/blog/azurestorageblog/lower-costs-and-boost-flexibility-with-azure-files-provisioned-v2/4443621) | Will Gries (Coauthor: Vincent Liu) | 2025-08-14 |
