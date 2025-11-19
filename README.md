@@ -1,29 +1,13 @@
-
-
----
-
-## Talks
-
-
-
-- **Azure Files Provisioned v2 Pricing Model: Flexible and Cost Efficient File Shares** [!VIDEO https://www.youtube.com/embed/fnxEFw4mMyQ?si=xDOxe4SZqe9suoXX&amp]
-
-
-- **Simplifying Azure Files: provisioned v2 and Microsoft.FileShares**  
-  [Watch the session](https://www.youtube.com/watch?v=tIWap2KLK8M)
-
-
-
-
 # What's up : )
 
 - I’m Vincent, a Product Manager at **Microsoft** working on **Azure Files** and **Azure File Sync**.  
 - I focus on **file share management**, **product documentation**, **customer advocacy**, and making storage simpler and more cost‑efficient.
 
+
 ## Talks
 <table>
     <tr>
-        <td><a href="https://www.youtube.com/watch?v=tIWap2KLK8M"><img src="./media/ignite2025.png" style="width:200px" /></a></td>
+        <td><a href="https://www.youtube.com/watch?v=tIWap2KLK8M"><img src="./media/mfs.png" style="width:200px" /></a></td>
         <td>
             <h3><a href="https://www.youtube.com/watch?v=tIWap2KLK8M">Simplifying Azure Files: Provisioned v2 and Microsoft.FileShares</a></h3>
             <h4>
@@ -33,13 +17,13 @@
         </td>
     </tr>
     <tr>
-        <td><a href="https://www.youtube.com/watch?v=m5_-GsKv4-o"><img src="./media/cost-optimization.jpg" style="width:200px;" /></a>
+        <td><a href="https://www.youtube.com/watch?v=fnxEFw4mMyQ"><img src="./media/pv2video.png" style="width:200px;" /></a>
         </td>
         <td>
-            <h3><a href="https://www.youtube.com/watch?v=m5_-GsKv4-o">Pricing up Azure Files</a></h3>
+            <h3><a href="https://www.youtube.com/watch?v=fnxEFw4mMyQ">Azure Files Provisioned v2 Pricing Model: Flexible and Cost Efficient File Shares</a></h3>
             <h4>
-                Sarah Lean, Will Gries<br />
-                2021-03-30
+                Vincent Liu <br />
+                2025-05-30
             </h4>
         </td>
     </tr>
